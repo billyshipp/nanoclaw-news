@@ -1,0 +1,7 @@
+title: NanoClaw News
+description: Daily digest of NanoClaw activity
+baseurl: "/nanoclaw-news"
+url: "https://billyshipp.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
